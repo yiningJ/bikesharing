@@ -7,6 +7,8 @@ In order to convince investors that a bike-sharing program in Des Moines is a so
 The goal of the project is supporting Tom to collect and report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular votes. Furthermore provide the report the county votes, total vote number for each county, the percentage of votes for each county.
 
 ##Results
+Tableau Story
+[link to dashboard](https://public.tableau.com/app/profile/yining.jin/viz/bikesharingchallenge_16703009855040/NYCStory)
 1. Gender Breakdown
 <img width="210" alt="Gender Breakdown" src="https://user-images.githubusercontent.com/110696825/205819373-f519f1de-b6a5-40ac-aefb-e2bf22739170.png">
 Male bike users nearly triple female users
