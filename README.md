@@ -6,7 +6,7 @@ In order to convince investors that a bike-sharing program in Des Moines is a so
 ### Purpose
 The goal of the project is supporting Tom to collect and report the total number of votes cast, the total number of votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular votes. Furthermore provide the report the county votes, total vote number for each county, the percentage of votes for each county.
 
-##Results
+## Results
 
 Tableau Story
 [link to dashboard](https://public.tableau.com/app/profile/yining.jin/viz/bikesharingchallenge_16703009855040/NYCStory)
